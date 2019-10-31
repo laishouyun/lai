@@ -1,0 +1,2 @@
+# lai
+learning Python
